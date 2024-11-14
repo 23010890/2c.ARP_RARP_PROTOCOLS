@@ -1,6 +1,8 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
+## Name : Dharshini S
+## Reg No : 212223110010
 ## ALGORITHM:
 ## Client:
 1. Start the program
